@@ -1,7 +1,9 @@
 # Beast-Fitness
 
 ✤ Beastfitness is a gym task web application build using Django Framework. The aim of this project was to understand the working of Django Framework along with it's common features like MVT architecture, working with forms, default authentication, .env files .
+
 ✤ Hosted Link :- https://beastfitness.herokuapp.com/
+
 ✤ Sample Video Of Website Working:
  https://user-images.githubusercontent.com/85333458/125850295-e19b9eec-609c-4cd5-824f-dae2fc4fcf4f.mp4
 ![Image 1](https://user-images.githubusercontent.com/85333458/125514924-139ddf90-a1b0-48e2-8011-6fbfd60a0e4b.png)
