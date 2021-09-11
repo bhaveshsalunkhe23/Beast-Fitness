@@ -5,11 +5,12 @@
 ✤ Hosted Link :- https://beastfitness.herokuapp.com/
 
 ✤ Sample Video Of Website Working:
- https://user-images.githubusercontent.com/85333458/125850295-e19b9eec-609c-4cd5-824f-dae2fc4fcf4f.mp4
-![Image 1](https://user-images.githubusercontent.com/85333458/125514924-139ddf90-a1b0-48e2-8011-6fbfd60a0e4b.png)
-![Image 2](https://user-images.githubusercontent.com/85333458/125514971-0232085b-1cc6-4ede-a6a3-1c9f2851bf2a.png)
-![Image 3](https://user-images.githubusercontent.com/85333458/125515001-42656f1d-1995-4a74-b5cf-9542ebc75794.png)
-![Image 4](https://user-images.githubusercontent.com/85333458/125515039-d60e6bee-4667-4fe3-b9b5-3f51a010060f.png)
+ 
+![Image 1](https://user-images.githubusercontent.com/85333458/132944963-188339dd-aaa1-4e8e-b3cc-5f0b8a7f0334.png)
+![Image 2](https://user-images.githubusercontent.com/85333458/132944967-c1bdeaaa-fc56-44bd-9fb7-6af08c59d43e.png)
+![Image 3](https://user-images.githubusercontent.com/85333458/132944970-69ba76f9-57c5-46db-b2b9-02fec69e8f8c.png)
+![Image 4](https://user-images.githubusercontent.com/85333458/132944972-08ac1baf-58ba-4b1e-996d-8e5a5551c19e.png)
+![image 5](https://user-images.githubusercontent.com/85333458/132944976-75a06819-d05c-4a83-bfa4-7c38163a6f7d.png)
 
 
 
