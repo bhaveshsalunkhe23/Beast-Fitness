@@ -4,7 +4,7 @@
 
 ✤ Hosted Link :- https://beastfitness.herokuapp.com/
 
-✤ Sample Video Of Website Working:
+✤ Sample Images Of Website Working:
  
 ![Image 1](https://user-images.githubusercontent.com/85333458/132944963-188339dd-aaa1-4e8e-b3cc-5f0b8a7f0334.png)
 ![Image 2](https://user-images.githubusercontent.com/85333458/132944967-c1bdeaaa-fc56-44bd-9fb7-6af08c59d43e.png)
